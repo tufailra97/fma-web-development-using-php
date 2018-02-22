@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+
+/*
+  index
+*/
+
+.f-height{
+  height: 100%;
+  position: relative;
+  background-image: url('img/bbk-ser.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.display-4{
+  font-size: 2rem;
+
+}
+.color{
+  background-color: rgba(9, 7, 13, 0.48);
+}
+.center{
+    margin: 0 auto;
+}
+.border{
+  padding: 1rem;
+}
+main h1, main label, main h2 {
+  color: white;
+}
+.reg{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.reg h1, label {
+  color: black;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  border: 1px solid grey;
+  -webkit-text-fill-color: black;
+  transition: background-color 3000s ease-in-out 0s;
+}
+/*
+  register new user
+*/
+
+.list-group-item{
+  font-size: 1rem;
+  color: black;
+  padding: 0.2rem 1rem;
+}
+
+.reg{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.reg h1, .reg label {
+  color: black;
+}
+/*
+  header, navbar
+*/
+
+header a{
+  color: white;
+}
+
+.lead span{
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+/*
+  content
+*/
+.bg{
+  background-image: url('img/bbk.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron{
+  position: relative;
+  padding: 10rem 0rem;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.jumbotron h1, .jumbotron p{
+  color: white;
+}
+
+.user{
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+.user p{
+  color: white;
+  font-size: 1.5rem;
+}
+
+/*
+  logout
+*/
+.logout{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.logout h1{
+  color: black;
+}
