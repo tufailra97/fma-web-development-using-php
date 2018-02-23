@@ -18,7 +18,7 @@
         <section class="center mt-3">
           <h1 class="text-center display-4 bold">Welcome to Department of Computer Science (DCS) at Birkbeck University</h1>
         </section>
-        <section class="center col-md-6 mt-5">
+        <section class="center col-md-6 mt-5 mb-5">
           <section class="border border-light">
             <h2 class="text-center">Please login to proceed</h2>
             <section>

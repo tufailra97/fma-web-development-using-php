@@ -50,7 +50,7 @@
 
         if($user_found === false){
           $errors_detected = true;
-          $errors[] = '<strong>Incorrect username/ password Please try again</strong>';
+          $errors[] = 'Incorrect username/ password Please try again';
         }
 
       }else {
@@ -86,11 +86,11 @@
     //if the form contains error show the form and the errors
     showForm();
     if($errors_detected === true){
-      echo "<ul>";
+      echo '<ul class="errors mt-1">';
       foreach ($errors as $key ) {
-        echo "<li><span>".$key."</span></li>";
+        echo '<li>'.$key.'</li>';
       }
-      echo "</ul>";
+      echo '</ul>';
     }
   }
 
