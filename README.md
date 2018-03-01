@@ -2,7 +2,7 @@
 Page 1 of 3
 Web Programming using PHP (P1)
 Final Marked Assignment (FMA)
-Introduction
+## Introduction
 The FMA, which carries 75% of the total marks for this module, requires you to use your
 knowledge of PHP, form validation and file manipulation to create a prototype web site, which
 models user registration and log-in system for access to a simple website and password
@@ -12,11 +12,11 @@ Dropbox in Moodle BEFORE the appropriate submission deadline for your class.
 Completing the FMA
 You should work on your FMA both during and after class. Begin your work early, as the FMA
 is a substantial task that requires much planning and effort to complete satisfactorily.
-Getting support
+## Getting support
 You may email your tutor up to 2 weeks before the FMA deadline with any queries you may
 have on your FMA. You can request feedback on your work by email. You only have one
 opportunity for feedback.
-FMA Specifications
+## FMA Specifications
 Your Task
 The Department of Computer Science (DCS) at Birkbeck College, have requested that you
 develop a prototype main page and link this page to prototype secure intranet pages. Your
