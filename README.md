@@ -1,4 +1,10 @@
-## FMA Web Development using PHP
+<p><span>Author:</span> Tufail Rahman </p>
+<p><span>Project Name:</span> FMA Web Development using PHP </p>
+<p><span>Written in:</span> HTML5, CSS3 , PHP and Bootstrap</p>
+<p><span>Last Update :</span> 21/02/2018</p>
+<p><span>Status :</span> Completed</p>
+
+## FMA Web Development using PHP, Description
 Page 1 of 3
 Web Programming using PHP (P1)
 Final Marked Assignment (FMA)
