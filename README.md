@@ -4,7 +4,7 @@
 <p><span>Status :</span> Completed</p>
 <p><span>Last Update :</span> 21/02/2018</p>
 
-## Access:
+## Access admin:
 <p><span>User :</span> admin</p>
 <p><span>Password :</span> DCSadmin01</p>
 
