@@ -74,4 +74,13 @@ output, however, you may do so, if you feel that it adds to the presentation of 
 However, the output should use htmlentities and validate correctly under the DOCTYPE you
 have specified.
 
+A user navigating to any of the public content pages should be able to view the content
+directly whether they are logged-in or logged-out. The pages should clearly display their user
+status (apart from the URL links to https://www.dcs.bbk.ac.uk/... pages). If a logged out user
+tries to access the intranet pages, they should be politely requested to log-in.
+There is no specific requirement to apply any CSS or other formatting to your html
+output, however, you may do so, if you feel that it adds to the presentation of your solution.
+However, the output should use htmlentities and validate correctly under the DOCTYPE you
+have specified.
+
 
