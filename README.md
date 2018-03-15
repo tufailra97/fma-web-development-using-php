@@ -9,9 +9,6 @@
 <p><span>Password :</span> DCSadmin01</p>
 
 ## FMA Web Development using PHP, Description
-Page 1 of 3
-Web Programming using PHP (P1)
-Final Marked Assignment (FMA)
 ## Introduction
 The FMA, which carries 75% of the total marks for this module, requires you to use your
 knowledge of PHP, form validation and file manipulation to create a prototype web site, which
